@@ -1,0 +1,7 @@
+.SearchIconButton{
+ flex: .1;
+ border-radius: 10px;
+ display: flex;
+ align-items: center;
+ transform: translateX(5px);
+}

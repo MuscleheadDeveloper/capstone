@@ -1,0 +1,13 @@
+.footer{
+    font-size: 10px;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: grey;
+    padding-top: 20px;
+}
+@media (max-width: 440px) {
+    .footer{
+        padding-top: 0;
+        transform: translateY(-10px);
+    }   
+}

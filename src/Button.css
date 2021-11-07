@@ -1,0 +1,28 @@
+.buttons{
+    height: 35px;
+    width: 400px;
+    margin:20px auto;
+    padding: 0 5px;
+}
+.button1{
+    display: flex;
+    width: 400px;
+    transform: translateY(7px);
+    align-items: center;
+    transform: translateX(-18px);
+}
+button{
+    font-size: 16px;
+    display: block;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border-style: outset;
+    border: 1px solid green;
+    background: white;
+    color: green;
+    margin: 0 auto;
+}
+button:hover{
+    color: white;
+    background: green;
+}
